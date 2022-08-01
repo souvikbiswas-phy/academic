@@ -1,5 +1,36 @@
 # academic
 
+# Souvik Biswas
+PhD candidate (Applied Physics, Caltech) <br>
+Email - sbiswas@caltech.edu <br>
+[CV](www.google.com) | [Google Scholar](https://scholar.google.com/citations?user=2dpoZT8AAAAJ&hl=en)
+
+I am a fifth year PhD candidate in the department of [Applied Physics](https://aph.caltech.edu) at [Caltech](https://www.caltech.edu) (2017 onwards), working in [Prof. Harry A. Atwater](https://daedalus.caltech.edu)'s group. Broadly, my academic interests lie at the intersection of condensend matter physics, optics and electrical engineering. More specifically, my research is focused on strong light-matter interaction in van der Waals layered materials for fundamental optical spectroscopy and active nanophotonics.  
+
+Prior to joining Caltech, I graduated from [Indian Institute of Technology (IIT) Kharagpur](http://iitkgp.ac.in) with a B.Sc. and M.Sc in Physics (2012-2017). I was advised by [Prof. Samit K. Ray](https://microsckgp.wixsite.com/skray-research-group) for my thesis, where I worked on opto-electronics of low-dimensional colloidal systems. 
+
+## Publications (from Caltech)
+1. **S. Biswas**^, M.Y. Grajower^, K. Watanabe, T. Taniguchi, H.A. Atwater. Broadband electro-optic polarization conversion with atomically thin black phosphorus. Science (2021). Press coverage. 
+2. **S. Biswas**, W.S. Whitney, M.Y. Grajower, K. Watanabe, T. Taniguchi, H.A. Bechtel, G.R. Rossman, H.A. Atwater. Tunable intraband optical conductivity and polarization dependent epsilon-near-zero behaviour in black phosphorus. Science Advances (2021), arxiv.
+3. H. Akbari, **S. Biswas**, P.K. Jha, J. Wong, B. Vest, H.A. Atwater. Near lifetime limited and tunable quantum light emission in h-BN via electric field modulation. Revisions, in Nano Letters (2022).
+4. M. Li, **S. Biswas**, C.U. Hail, H.A. Atwater. Refractive index modulation in monolayer MoSe2. Nano Letters (2021).
+5. C. Cho, J. Wong, A. Taqieddin, **S. Biswas**, N.R. Aluru, S. Nam, H.A. Atwater. Highly strain tunable interlayer excitons in M oS2/W Se2 heterobilayers. Nano Letters (2021).
+6. P.K. Jha^, H. Akbari^, Y. Kim^, **S. Biswas**, H.A. Atwater. Nanoscale axial position and orientation measurement of hexagonal boron nitride quantum emitters using a tunable nanophotonic environment. Nanotechnology (2021), arxiv.
+7. C.M. Went, J. Wong, P.R. Jahelka, M. Kelzenberg, **S. Biswas**, M.S. Hunt, A. Carbone, H.A. Atwater. A new metal transfer process for van der Waals contacts to vertical Schottky-junction transition metal dichalcogenide photovoltaics. Science Advances (2020), arxiv.
+8. M.C. Sherrott^, W.S. Whitney^, D. Jariwala, **S. Biswas**, C.M. Went, J. Wong, G.R. Rossman, H.A. Atwater. Anisotropic Quantum Well Electro-Optics in Few-Layer Black Phosphorus. Nano Letters (2019), arxiv.
+
+## In Preparation (from Caltech)
+1. **S. Biswas**^, J. Wong^, S. Pokawanvit, H. Zhang, W-C. D. Yang, K. Watanabe, T. Taniguchi, H. Akbari, A.V. Davydov, F.H. da Jornada, H.A. Atwater. Quantum-confined excitons at monolayer black phosphorus edges. In preparation (2022).
+2. **S. Biswas**, A. Champagne, J. Haber, S. Pokawanvit, J. Wong, S. Krylyuk, H. Akbari, K. Watanabe, T. Taniguchi, A.V. Davydov, Z.Y. Al Balushi, D.Y. Qiu, F.H. da Jornada, J.B. Neaton , H.A. Atwater. Electrically tunable Rydberg excitons in monolayer M oT e2. In preparation (2022), SPIE (2021).
+3. M. Li*, C.U. Hail*, **S. Biswas**, H.A. Atwater. Beam steering with monolayer MoSe2 based metasurfaces. In preparation (2022).
+4. K. J Shayegan, **S. Biswas**, B. Zhao, S. Fan, H.A. Atwater. Directly violating the Kirchoff thermal law. In preparation (2022).
+
+## Publications (before Caltech)
+1. S. Mukherjee, **S. Biswas**, A. Ghorai, A. Midya, S. Das, S.K. Ray. Tunable Optical and Electrical Transport Properties of Size- and Temperature-Controlled Polymorph M oS2 Nanocrystals. The Journal of Physical Chemistry C (2018).
+2. S. Mukherjee, **S. Biswas**, S. Das, S.K. Ray. Solution-processed, hybrid 2D/3D M oS2/Si heterostructures with superior junction characteristics. Nanotechnology (2017).
+3. N. Takemura, M.D. Anderson, **S. Biswas**, M. Navadeh-Toupchi, D.Y. Oberli, M.T. Portella-Oberli, B. Deveaud. Coherent and incoherent aspects of polariton dynamics in semiconductor microcavities. Phys. Rev. B (2016).
+4. N. Takemura, M.D. Anderson, S. Trebaol, **S. Biswas**, D.Y. Oberli, M.T. Portella-Oberli, B. Deveaud. Dephasing effects on coherent exciton-polaritons and the breakdown of the strong coupling regime. Phys. Rev. B (2015).
+
 ### A Jekyll theme for academia
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
